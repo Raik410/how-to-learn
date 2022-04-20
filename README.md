@@ -12,3 +12,7 @@ HTML, CSS, git, БЭМ
 ## Доработки
 Добавление новых блоков
 
+## Ссылка на проект
+https://raik410.github.io/how-to-learn/
+
+
